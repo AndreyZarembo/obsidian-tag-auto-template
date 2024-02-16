@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tag-auto-template",
+	"name": "Tag Auto Template",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin automatically adds read-pnly templates to headers and footers of notes based on tags.",
+	"author": "Andrey Zarembo",
+	"authorUrl": "https://github.com/AndreyZarembo",
+	"isDesktopOnly": false
+}
